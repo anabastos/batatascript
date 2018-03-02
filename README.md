@@ -1,4 +1,3 @@
-## 🥔 BatataScript 🥔
 ![Batascript Logo](batatascript.png)
 > "You harvest what you plant"
 
