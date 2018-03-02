@@ -22,13 +22,11 @@ console.log('Hello World 🍟');
 
 #### 2 - Running batatascript
 ```bash
-# file
-batatascript hello # Hello World 🍟
+batatascript hello.btts # Hello World 🍟
 ```
 
 ## Batata plugins
 
-- batata-ramda(*In progress*)
 - batata-preset-react(*In progress*)
 - batata-jest(*In progress*)
 - batata-flow(*In progress*)
