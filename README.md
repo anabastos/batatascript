@@ -1,6 +1,8 @@
 ## 🥔 BatataScript 🥔
+![Batascript Logo](batatascript.png)
+> "You harvest what you plant"
 
-Batatascript is rural paradigm language with the motto "You harvest what you plant" 🥔 => 🍟
+**Batatascript** is rural paradigm language that turns javascript code into javascript code 🥔 => 🍟
 
 ## Installing
 ```bash
@@ -20,7 +22,7 @@ npm install batatascript
 console.log('Hello World 🍟');
 ```
 
-#### 2 - Running batatascript
+#### 2 - Running batatascript code
 ```bash
 batatascript hello.btts # Hello World 🍟
 ```

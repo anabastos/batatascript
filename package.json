@@ -7,11 +7,17 @@
     "type": "git",
     "url": "git+https://github.com/anabastos/batatascript.git"
   },
-  "keyword": ["compiler", "batata"],
+  "keyword": [
+    "compiler",
+    "batata"
+  ],
   "author": "AnaBastos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/anabastos/batatascript/issues"
   },
-  "homepage": "https://github.com/anabastos/batatascript#readme"
+  "homepage": "https://github.com/anabastos/batatascript#readme",
+  "dependencies": {
+    "math-tau": "^1.0.0"
+  }
 }
