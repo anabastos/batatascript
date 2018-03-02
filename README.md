@@ -1,6 +1,6 @@
 ## 🥔 BatataScript 🥔
 
-Amazing compiler that turns javascript code into javascript code! 🥔 => 🍟
+Batatascript is rural paradigm language with the motto "You harvest what you plant" 🥔 => 🍟
 
 ## Installing
 ```bash
